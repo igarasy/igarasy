@@ -1,24 +1,59 @@
+<h1 align="center">👋 Hey, I'm Lucas Igarashi</h1>
 
-<div align="center" >
+<p align="center">
+  🚀 <strong>Mobile Engineer</strong> | Flutter · Swift · React Native · TypeScript<br/>
+  🎯 Focused on performance, scalability and crafting delightful mobile experiences.
+</p>
+
+---
+
+<div align="center">
   <a href="https://github.com/igarasy">
-  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=igarasy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarasy&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=igarasy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarasy&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-  
+
+---
+
+### 🧠 About Me
+- 💻 Experienced in **Flutter (Dart)**, **iOS Native (Swift/SwiftUI)** and **React Native (TypeScript)**  
+- ⚙️ Passionate about **clean architecture**, **smooth UX** and **scalable apps**  
+- 📈 Obsessed with metrics like **load time**, **crash-free rate** and **user retention**  
+- 🧩 Advocate of **cross-platform development** and shared design systems  
+- 🌎 Open for collaboration and new challenges in mobile engineering  
+
+---
+
+### 🧰 Tech Stack
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-igarashi-295960131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a target="_blank" href="https://twitter.com/LucasIgarashi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
- 
+  <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/dart.svg">
+  <img align="center" alt="Swift" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg">
+  <img align="center" alt="SwiftUI" height="40" width="40" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png">
+  <img align="center" alt="React Native" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="center" alt="Firebase" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img align="center" alt="GraphQL" height="40" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 </div>
 
+---
 
+### 🌐 Connect with me
+<div>
+  <a href="https://www.linkedin.com/in/lucas-igarashi-295960131/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://twitter.com/LucasIgarashi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>“Building mobile experiences that feel simple, fast, and human.”</i>
+</p>
