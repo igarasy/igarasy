@@ -40,8 +40,7 @@
   <img align="center" alt="Firebase" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="GraphQL" height="40" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-  <img align="center" alt="Xcode" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/xcode.svg">
+
 </div>
 
 ---
